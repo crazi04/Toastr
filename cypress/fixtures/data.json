@@ -1,0 +1,10 @@
+{
+    "position": "top-right",
+    "title": "Alloha",
+    "content": "Be healthy",
+    "time": 10000,
+    "type": "primary",
+   
+    "icon": "email",
+    "color": "blue"
+  }
